@@ -2,6 +2,8 @@
 
 A programmable MIDI/USB footswitch controller built with Teensy, featuring 6 configurable switches with multiple banks and a web-based configuration interface.
 
+![Foot Switch](foot_switch.jpg)
+
 ## Overview
 
 foot_switch_pro is a versatile footswitch controller that can send MIDI notes, MIDI control changes, or keyboard commands. With 16 configurable banks and 6 switches per bank, you get 96 total programmable actions. The device stores all configurations in EEPROM for persistence across power cycles.
